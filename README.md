@@ -166,10 +166,6 @@
 
 ----
 
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/saladinjake"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=saladinjake&custom_title=saladinjake's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
 
 
 <br/>
