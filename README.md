@@ -3,7 +3,7 @@
 
 
 ## :sassy_man:  About me
-- :school: I am a `Junior` at Faculty of Computers & Informatics at Suez Canal University
+- :school: I am just some random computer geek who loves to build stuffs. Find enything interesting? Don't tell me about it.
 - :trophy: `APTECH INSTITUTE` Finalist 2013 SOFTWARE EXHIBITION (FIGHTING GAMES) BAYERO UNIVERSITY 
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: I am a competitive programmer, Learner and ambitious adventurer
