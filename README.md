@@ -8,7 +8,7 @@
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: I am a competitive programmer, Learner and ambitious adventurer
 - :student: I’m currently learning: `Block chain for fintech solutions` and `Improving my skills daily`.
-- :thinking: I’m currently open for: `A remote|| fulltime`  `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/mylinkid/view?usp=sharing).
+- :thinking: I’m currently open for: `A remote|| fulltime`  `job opportunity`, this is [MY RESUME][(https://drive.google.com/file/d/mylinkid/view?usp=sharing)](https://drive.google.com/file/d/1_2D1BPhukxw9UQjuxRhFPr49HUnqRU6u/view?usp=sharing).
 - :nerd_face: Always `learning new things`
 
 <br>
