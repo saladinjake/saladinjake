@@ -3,12 +3,7 @@
 
 
 ## :sassy_man:  About me
-- :school: I am just some random computer geek who loves to build stuffs. Find enything interesting? Don't tell me about it.
-- :trophy: `APTECH INSTITUTE` Finalist 2013 SOFTWARE EXHIBITION (FIGHTING GAMES) BAYERO UNIVERSITY 
-- :technologist: I love using Software as a solution for every `Problem`
-- :computer: I am a competitive programmer, Learner and ambitious adventurer
-- :student: I’m currently learning: `Block chain for fintech solutions` and `Improving my skills daily`.
-- :thinking: I’m currently open for: `A remote|| fulltime`  `job opportunity`, this is [MY RESUME][(https://drive.google.com/file/d/mylinkid/view?usp=sharing)](https://drive.google.com/file/d/1_2D1BPhukxw9UQjuxRhFPr49HUnqRU6u/view?usp=sharing).
+- Just some simple random guy next to you from a distance. checkout my portfolio [here] [( https://myportfolios-psi.vercel.app/)]. And this is [MY RESUME][(https://drive.google.com/file/d/mylinkid/view?usp=sharing)](https://drive.google.com/file/d/1_2D1BPhukxw9UQjuxRhFPr49HUnqRU6u/view?usp=sharing).
 - :nerd_face: Always `learning new things`
 
 <br>
@@ -29,57 +24,6 @@
 </p>
 
 
-
-
-## 🛠️ My Skills
-
-### 👉 Programming languages
-<p align="left">
-	
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> </code>
-	  <code> <img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"> </code>
-	  <code> <img height="50" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> </code>
-   <code><img height="50" src="https://www.pngkit.com/png/detail/178-1787127_github-logo-png-transparent-github-vector.png"></code>
-  <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png"> </code>
-
-
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"> </code>
-  
-  <hr>
-</p>
- ### 👉 Competitive Programming & Problem Solving
- 
-<p align="center">
-  &emsp;
-   
-    <a href="#"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
-  &emsp;
-    <a href="#"><img alt = "Huckerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt = "Google" src="https://img.shields.io/badge/google-%234285F4.svg?style=plastic&logo=google&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt = "Codin Game" src="https://img.shields.io/badge/codingame-%23F2BB13.svg?&style=plastic&logo=codingame&logoColor=black" /></a>
-</p>
-
- ### 👉 Operating Systems
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/pop!_os-%2348B9C7.svg?style=plastic&&logo=pop!_os&logoColor=white" /></a>	  
-</p>
 
 <br/>
 
