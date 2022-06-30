@@ -3,7 +3,7 @@
 
 
 ## :sassy_man:  About me
-- Just some simple random guy next to you from a distance. checkout my portfolio [here] [( https://myportfolios-psi.vercel.app/)]. And this is [MY RESUME][(https://drive.google.com/file/d/mylinkid/view?usp=sharing)](https://drive.google.com/file/d/1_2D1BPhukxw9UQjuxRhFPr49HUnqRU6u/view?usp=sharing).
+- Just some simple random guy next to you from a distance. checkout my portfolio [here] [( https://myportfolios-psi.vercel.app/)]. And this is [MY RESUME][(https://drive.google.com/file/d/1vD-r4r80UPTwXkjlST9wTG0FWKNWxTbV/view?usp=sharing)].
 - :nerd_face: Always `learning new things`
 
 <br>
